@@ -1,5 +1,11 @@
 package bridge;
 
-public class RefinedAbstraction {
-
+/**
+ * - Extends the interface defined by Abstraction.
+ * 
+ * @author freedom5wind
+ *
+ */
+public class RefinedAbstraction extends Abstraction {
+	
 }
